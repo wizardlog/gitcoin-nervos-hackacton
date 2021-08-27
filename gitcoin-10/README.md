@@ -1,6 +1,6 @@
 ### Complete Withdrawal Process By Unlocking The Funds (gitcoin-10)
 
-### 1-) A screenshot of the console output immediately after running the withdraw command
+### 1-) A screenshot of the console output immediately after running the unlock command
 
 <img src="https://github.com/wizardlog/gitcoin-nervos-hackacton/blob/master/gitcoin-10/unlock.png" />
 
